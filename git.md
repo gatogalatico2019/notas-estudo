@@ -16,3 +16,14 @@ Quando for números tirar as aspas
 Texto é gual a string
 Juntar texto é concatenar
 Para dar espaço é só dar um espaço entre as aspas "1   " + "   1"
+
+var: declara uma varíavel (não use)
+let: é uma variavel que varia, pode mudar o valor no decorrer do programa
+const: recebe uma variável e nunca mais vai mudar
+
+Para atribuir um valor para uma variável usa-se o sinal de = igual
+Não se usa espaço entre as variáveis
+Para abrir terminal é o ctrl "
+
+
+
