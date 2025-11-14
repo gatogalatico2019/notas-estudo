@@ -1,11 +1,14 @@
-//calcule a média de 3 números
-const num = 4.5
-const num2 = 6.5
-const num3 = 7.9
+//calcule a soma  dos 3 números
+const num  = prompt("Digite um número:")
+const num2  = prompt("Digite outro número:")
+const num3 = prompt("Digite mais um número:")
 
-const resultado = (num+num2+num3) / 3
+const resultado = Number((num) + Number(num2) + Number(num3))
 
-console.log ("A média entre os números")
-console.log ("4.5, 6.5, 7,9 =  " + resultado)
+alert("A soma dos números é: ")
+alert(resultado)
+
+
+
 
 

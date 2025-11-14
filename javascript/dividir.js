@@ -1,11 +1,6 @@
-//FUP para dividir dois números
+const num = prompt("Digite um número:")
+const num1 = prompt("Digite outro número")
+const resultado = Number(num) / Number(num1)
 
-const num = 10
-//posso testar com o let 
-
-const num2 = 2
-const resultado = num/num2
-
-console.log (num / num2)
-console.log ("O resultado da divisão de :" + resultado)
+alert(resultado)
 
